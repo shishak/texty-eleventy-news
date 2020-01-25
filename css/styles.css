@@ -25,7 +25,7 @@ a:hover {
 }
 header {
    text-align: center;
-   height: 45px;
+   height: 55px;
 }
 .container {
   max-width: 1200px;
@@ -171,6 +171,15 @@ h2 {
 .footer-container {
   margin-top: 0;
 }
+header {
+  height: 65px;
+}
+h1 {
+  font-size: 24px;
+  line-height: 24px;
+  margin-left: 20px;
+  margin-right: 20px;
+}	
  .container {
    padding: 0;	
 }
