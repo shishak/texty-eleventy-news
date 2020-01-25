@@ -132,6 +132,14 @@ h1 {
     color: #444;
     font-family: sans-serif;
 }
+h5 {
+  font-size: 52px;
+    font-weight: 600;
+    line-height: 152px;
+    letter-spacing: -1px;
+    color: #444;
+    font-family: sans-serif;
+}
 
 .date-title {
    margin-left: 20px;
