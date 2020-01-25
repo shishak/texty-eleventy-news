@@ -139,6 +139,8 @@ h5 {
     letter-spacing: -1px;
     color: #444;
     font-family: sans-serif;
+	width: 100%;
+	text-align: center;
 }
 
 .date-title {
